@@ -1,0 +1,10 @@
+.editor h1 {
+    @apply text-3xl p-2;
+}
+
+.editor h3 {
+    @apply text-xl p-2;
+}
+.editor p {
+    @apply p-2 font-medium text-base;
+}
